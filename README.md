@@ -37,7 +37,7 @@ Here are the steps to make a mirror of this repo to your GutHub account:
 
 You should now have a mirror of this repository called `nyu-lab-travis-ci` under your own GitHub account that you can make changes to and create Pull Requests and see how Travis CI runs your tests for you with every Pull Request or `push` to master.
 
-## If you want to run the tests locally
+## If you want to run the tests locally##
 
 There is no need to run the tests locally because the purpose of this lab is to have Travis Ci run them for you but if you wanted to run them yourself, the easy setup is to have [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/) installed. Then all you have to do is clone this repo and invoke vagrant:
 
